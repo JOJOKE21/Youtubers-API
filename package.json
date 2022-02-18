@@ -1,0 +1,26 @@
+{
+  "name": "api-youtubers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOJOKE21/Youtubers-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOJOKE21/Youtubers-API/issues"
+  },
+  "homepage": "https://github.com/JOJOKE21/Youtubers-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  }
+}
